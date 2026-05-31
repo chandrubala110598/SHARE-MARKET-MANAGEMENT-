@@ -63,8 +63,6 @@ managing investors, stocks, transactions, and portfolios.
 
 ## 📁 Files
 - `share_market.sql` — Complete SQL script with tables, data, and queries
-## 👤 Author
-  Balachandar M
 
 ## 👤 Author
-[Your Name]
+Balachandar M
